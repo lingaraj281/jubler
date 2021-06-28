@@ -19,7 +19,7 @@
 
 import stanford_theme
 project = '⭐Career++⭐'
-copyright = '2021, Lingaraj Sahu     contact-lingarajs2002@gmail.com'
+copyright = '2021, Lingaraj Sahu'
 author = 'Lingaraj'
 
 # The full version, including alpha/beta/rc tags
